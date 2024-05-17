@@ -1,0 +1,24 @@
+
+.welcome-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.welcome-container h1 {
+    font-size: 2.5em;
+}
+
+.welcome-container p {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
+
+.welcome-container button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    background-color: #58af9b;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
